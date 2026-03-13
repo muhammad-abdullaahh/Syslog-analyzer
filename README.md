@@ -41,8 +41,8 @@ syslog-analyzer/
 ## 🚀 Usage
 
 ```bash
-chmod +x analyze.sh
-./analyze.sh
+chmod +x script.sh
+./script.sh
 ```
 
 ### Sample Output (`mainfile.txt`)
